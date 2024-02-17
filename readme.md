@@ -2,6 +2,8 @@
 
 # Execute as an administrator or it wont work 
 
+The release may be flagged as a virus, it is not !
+
 Simple PC locker
 
 
