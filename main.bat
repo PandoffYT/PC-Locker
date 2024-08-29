@@ -11,7 +11,7 @@ if exist "%APPDATA%\pando\data\lock" (
     :change-pwd
     echo Enter a secure password (case sensitive)
     set /p pwd="Input : "
-    echo %pwd% > %APPDATA%/pando/data/lock/pwd.txt
+    echo %pwd%> %APPDATA%/pando/data/lock/pwd.txt
     goto rights_check
 )
 
